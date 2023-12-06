@@ -4,3 +4,9 @@
 #red{
     background-color: red; height: 300px; width: 300px;
 }
+h1{
+    color: red;
+}
+h3{
+    background-color: green;
+}
